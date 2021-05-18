@@ -16,7 +16,7 @@ User rolü ile yeni başvuru yapabilirsiniz.
 
 ## Uygulama Ayrıntıları
 
-Uygulama 2 kısımdan oluşmaktadır. Front-end için JavaScript, HTML5, CSS kullanışmıştır. Kodlara [buradan](https://github.com/sukruoguzhanolgun/hr-system.git)
+Uygulama 2 kısımdan oluşmaktadır. Front-end için JavaScript, HTML5, CSS kullanışmıştır. Kodlara [buradan](https://github.com/sukruoguzhanolgun/hr-system-front-end.git)
 ulaşabilirsiniz.
 
 Back-end **SpringBoot** projesi olarak **Java 8** ile  çalışmaktadır. Aynı zamanda proje yönetimi için Maven kullanıldığı için
@@ -98,7 +98,7 @@ Diğer metodlar için Admin rolü ile sisteme giriş yapmak gerekmektedir.
 2. GitHub üzerinden projeyi bilgisayarınıza indirin.
 
 ```
-$ git clone https://github.com/
+$ git clone https://github.com/sukruoguzhanolgun/hr-system-back-end.git
 ```
 
 3. Uygulamanın indirileceği klasörü seçin.
