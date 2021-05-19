@@ -129,11 +129,6 @@ $ mvn spring-boot:run
 $ curl -X GET http://localhost:8080/api/user/signin
 ```
 
-8. Make a POST request to `/users/signin` with the default admin user we programatically created to get a valid JWT token
-
-
-9. Metod ile oluşan Token ile Swagger UI üzerinden yetki alınmalıdır ve diğer metodlara o şekilde ulaşılabilir.
-
-
+8. Metod ile oluşan Token ile Swagger UI üzerinden yetki alınmalıdır ve diğer metodlara o şekilde ulaşılabilir.
 
 
